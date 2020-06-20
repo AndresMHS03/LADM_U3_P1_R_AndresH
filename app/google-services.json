@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864973411176",
+    "firebase_url": "https://auth-2e033.firebaseio.com",
+    "project_id": "auth-2e033",
+    "storage_bucket": "auth-2e033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864973411176:android:1aa3efcb389fecd99c7cdd",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_p1_r_andresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864973411176-opmivv35omlb1l7pqchaeinog2t1aud7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHekBVJsrNiHLwKmdquGynzjZoD4wESI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864973411176-opmivv35omlb1l7pqchaeinog2t1aud7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
